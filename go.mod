@@ -1,4 +1,4 @@
-module github.com/d-tsuji/clipboard
+module github.com/AbdulmelikKalkan/clipboard
 
 go 1.14
 
